@@ -1,0 +1,20 @@
+.cbox {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.ctitle {
+    color: #888;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.infotitle {
+    color: white;
+}
+.contactwrap {
+    display: flex;
+    width: 600px;
+    justify-content: space-between;
+}
